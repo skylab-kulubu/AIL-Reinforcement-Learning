@@ -16,4 +16,4 @@ Bu projeyi çalıştırmak için Python ve Pygame kütüphanesi yüklü olmalıd
 
 ## Yapay Zeka Botu
 
-Ekip üyeleri tarafından oyunu oynaycak olan yapay zeka botu geliştirilecektir.
+Ekip üyeleri tarafından oyunu oynayacak olan yapay zeka botu geliştirilecektir.
